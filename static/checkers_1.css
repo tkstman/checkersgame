@@ -1,0 +1,32 @@
+.board
+{
+    background-color:black;
+    height:300px;
+    width:300px;
+    
+}
+
+#board
+{
+    height:300px;
+    width:300px;
+    background-color:black;
+}
+body
+{
+    background-color:black;
+}
+div
+{
+    background-color:black;
+    height:300px;
+    width:300px;
+}
+.glow
+{
+    border:2px solid blue;
+}
+.glow
+{
+    border:2px solid blue;
+}

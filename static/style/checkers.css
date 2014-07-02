@@ -1,0 +1,58 @@
+
+
+#board
+{
+    height:300px;
+    width:300px;
+    background-color:#4f334e;
+}
+body
+{
+    background-color:#4f334e;
+}
+/**div
+{
+    background-color:black;
+    height:300px;
+    width:300px;
+}
+**/
+.selected
+{
+    -moz-box-shadow:    inset 0 0 25px #ffff00;
+    -webkit-box-shadow: inset 0 0 25px #ffff00;
+    box-shadow:         inset 0 0 25px #ffff00;
+}
+.glow
+{
+   -moz-box-shadow:    inset 0 0 25px #ffff00;
+   -webkit-box-shadow: inset 0 0 25px #ffff00;
+   box-shadow:         inset 0 0 25px #ffff00;
+
+}
+
+.redpanel
+{
+    height:50px;
+    width:50px;
+    background-color:red;
+    float:left;
+}
+
+.blackpanel
+{
+    height:50px;
+    width:50px;
+    background-color:black;
+    float:left;
+}
+
+.player1
+{
+    background-color:green;
+}
+
+.player2
+{
+    background-color:#663399;
+}
